@@ -1,0 +1,10 @@
+{
+  "name": "angular-translate-storage-cookie",
+  "version": "0.1.1",
+  "main": "./angular-translate-storage-cookie.js",
+  "dependencies": {
+    "angular": "1.0.6",
+    "angular-cookies": "1.0.6,
+    "angular-translate": "~0.8.1"
+  }
+}
