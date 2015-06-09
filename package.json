@@ -1,6 +1,6 @@
 {
   "name": "angular-translate-storage-cookie",
-  "version": "2.7.0",
+  "version": "2.7.2",
   "description": "Abstraction layer for cookieStore. This service is used when telling angular-translate to use cookieStore as storage.",
   "main": "angular-translate-storage-cookie.js",
   "repository": {
@@ -9,13 +9,18 @@
   },
   "keywords": [
     "angular",
-    "angular-translate",
-    "angular-translate-storage-cookie"
+    "translate",
+    "storage",
+    "cookies"
   ],
   "author": "Pascal Precht",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular-translate/bower-angular-translate-storage-cookie/issues"
+    "url": "https://github.com/angular-translate/angular-translate/issues"
   },
-  "homepage": "https://github.com/angular-translate/bower-angular-translate-storage-cookie"
+  "homepage": "https://angular-translate.github.io",
+  "dependencies": {
+    "angular-translate": "~2.7.2",
+    "angular-cookies": ">=1.2.26 <=1.5"
+  }
 }
