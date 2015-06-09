@@ -3,10 +3,6 @@
   "description": "A plugin for Angular Translate",
   "version": "2.7.2",
   "main": "./angular-translate-storage-cookie.js",
-  "dependencies": {
-    "angular-translate": "~2.7.2",
-    "angular-cookies": ">=1.2.26 <=1.5"
-  },
   "ignore": [],
   "author": "Pascal Precht",
   "licenses": [
@@ -14,5 +10,9 @@
       "type": "MIT",
       "url": "http://www.opensource.org/licenses/MIT"
     }
-  ]
+  ],
+  "dependencies": {
+    "angular-translate": "~2.7.2",
+    "angular-cookies": ">=1.2.26 <=1.5"
+  }
 }
