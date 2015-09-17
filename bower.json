@@ -5,12 +5,7 @@
   "main": "./angular-translate-storage-cookie.js",
   "ignore": [],
   "author": "Pascal Precht",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "dependencies": {
     "angular-translate": "~2.7.2",
     "angular-cookies": ">=1.2.26 <=1.5"
